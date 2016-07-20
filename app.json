@@ -1,0 +1,17 @@
+{
+  "name": "heroku-test",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
