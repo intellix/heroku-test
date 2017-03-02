@@ -1,6 +1,6 @@
 
 {
-  "name": "Node.js Sample",
+  "name": "Node.js Simple",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/intellix/heroku-test",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
